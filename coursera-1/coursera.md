@@ -1,50 +1,52 @@
-1-arrow keys      ==ok tuşları
-2-spaceship       ==uzay gemisi
-3-around          ==etrafında
-4-destroy         ==yıkmak
-5-crash           ==parçalanma
-6-possible        ==olası,mümkün
-7-reality         ==gerçeklik
-8-fall            ==yıkmak,düşmek
-9-experimenting   ==deneme
-10-patience       ==sabır 
-11-fix            ==düzeltmek
-12-stuck		  ==sıkışmış
-13-individual concerns   ==bireysel kaygılar
-14-tenacity       ==azim
-15-we're lame     ==aciz olmak
-16-paper          ==kağıt
-17-However        ==ancak
-18-my opinion     ==benim görüşüm
-19-biased         ==önyargı
-20-allow          ==izin vermek  
-21-special        ==özel
-22-just           ==sadece
-23-lagging        ==geri kalmış
-24-behind         ==arkasında
-25-suggest		  ==önermek
-26-pretty         ==güzel
-27-slightly       ==hafifçe
-28-anybody        ==herhangibiri
-29-upper left     ==sol üst
-30-simple         ==basit
-31-other          ==diğer
-32-expect         ==beklemek
-33-callbacks      ==geri aramalar
-34-assign		  ==atamak
-35-event          ==olay
-36-actually		  ==aslında
-37-familiar       ==tanıdık
-38-useful		  ==yararlı
-39-supposed       ==sözde
-40-piece          ==parça
-41- basically     ==temel olarak
-42-just 		  ==sadece
-43- everyone      ==herkes
-44-statements     ==ifadeler
-45-totally 		  ==bütünüyle
-46- struggling    ==mücadele
-47-expressions    ==ifadeler
-48-corresponding  ==yerini tutan,uyan
-49-between        ==arasında
-50-information    ==bilgi
+<dl>
+<dt>1-arrow keys    </dt>  ==ok tuşları
+<dt>2-spaceship      </dt> ==uzay gemisi
+<dt>3-around          </dt>==etrafında
+<dt>4-destroy         </dt>==yıkmak
+<dt>5-crash          </dt> ==parçalanma
+<dt>6-possible      </dt>  ==olası,mümkün
+<dt>7-reality       </dt>  ==gerçeklik
+<dt>8-fall           </dt> ==yıkmak,düşmek
+<dt>9-experimenting  </dt> ==deneme
+<dt>10-patience      </dt> ==sabır 
+<dt>11-fix           </dt> ==düzeltmek
+<dt>12-stuck		 </dt> ==sıkışmış
+<dt>13-individual concerns  </dt> ==bireysel kaygılar
+<dt>14-tenacity      </dt> ==azim
+<dt>15-we're lame    </dt> ==aciz olmak
+<dt>16-paper        </dt>  ==kağıt
+<dt>17-However       </dt> ==ancak
+<dt>18-my opinion    </dt> ==benim görüşüm
+<dt>19-biased        </dt> ==önyargı
+<dt>20-allow        </dt>  ==izin vermek  
+<dt>21-special      </dt>  ==özel
+<dt>22-just         </dt>  ==sadece
+<dt>23-lagging      </dt>  ==geri kalmış
+<dt>24-behind       </dt>  ==arkasında
+<dt>25-suggest		</dt>  ==önermek
+<dt>26-pretty       </dt>  ==güzel
+<dt>27-slightly     </dt>  ==hafifçe
+<dt>28-anybody      </dt>  ==herhangibiri
+<dt>29-upper left   </dt>  ==sol üst
+<dt>30-simple       </dt>  ==basit
+<dt>31-other        </dt>  ==diğer
+<dt>32-expect       </dt>  ==beklemek
+<dt>33-callbacks   </dt>   ==geri aramalar
+<dt>34-assign		 </dt> ==atamak
+<dt>35-event        </dt>  ==olay
+<dt>36-actually		</dt>  ==aslında
+<dt>37-familiar   </dt>    ==tanıdık
+<dt>38-useful		 </dt> ==yararlı
+<dt>39-supposed   </dt>    ==sözde
+<dt>40-piece        </dt>  ==parça
+<dt>41- basically    </dt> ==temel olarak
+<dt>42-just 		 </dt> ==sadece
+<dt>43- everyone    </dt>  ==herkes
+<dt>44-statements  </dt>   ==ifadeler
+<dt>45-totally 		 </dt> ==bütünüyle
+<dt>46- struggling  </dt>  ==mücadele
+<dt>47-expressions   </dt> ==ifadeler
+<dt>48-corresponding </dt> ==yerini tutan,uyan
+<dt>49-between       </dt> ==arasında
+<dt>50-information   </dt> ==bilgi
+</dl>
